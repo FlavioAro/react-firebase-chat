@@ -1,6 +1,14 @@
 # react-firebase-chat
 A repository for the Firebase + React chat app I created.
 
+npx create-react-app react-firebase-chat
+
+npm install firebase@^8.8.1
+
+npm install react-firebase-hooks@^3.0.4
+
+npm i @material-ui/core
+
 ![1](https://user-images.githubusercontent.com/35077695/147523013-555ea843-3070-4339-972f-4c88498e00c2.PNG)
 ![2](https://user-images.githubusercontent.com/35077695/147523024-cef82efb-330b-4fcc-b733-7742ca4e93f8.PNG)
 ![3](https://user-images.githubusercontent.com/35077695/147523029-d66feef4-f1cf-4b59-beef-06febaf3ba66.PNG)
