@@ -54,12 +54,59 @@ p {
   background-color: #fafafa;
 }
 
+.inputSendMsg {
+  width: 78%;
+  font-size: 15px;
+  font-weight: 550;
+  margin-left: 5px;
+  margin-bottom: -3px;
+}
+
+.buttonSendMsg {
+  width: 18%;
+  font-size: 15px;
+  font-weight: 550;
+  margin: 4px 5% -13px 5%;
+  max-width: 200px;
+}
+
 .msgs {
   margin: 110px 0;
   display: flex;
   flex-direction: column;
 }
 
+.signIn {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+
+.buttonSignIn {
+  padding: 30px;
+  font-size: 20px;
+  border-radius: 0;
+  font-weight: 600;
+}
+
+.signOut {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  width: 100%;
+  background-color: #FAFAFA;
+  top: 0;
+  border-bottom: solid 1px lightgray;
+  z-index: 10;
+}
+
+.buttonSignOut {
+  padding: 20px;
+  font-size: 15px;
+  border-radius: 0;
+  font-weight: 600;
+}
 
 @media (max-width: 775px) {
   p {
@@ -92,5 +139,3 @@ p {
     margin-top: -7px;
   }
 }
-
-
