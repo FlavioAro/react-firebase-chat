@@ -1,5 +1,4 @@
-# react-firebase-chat
-A repository for the Firebase + React chat app I created.
+# A repository for the Firebase + React chat app I created.
 
 ### Video link showing how it works:
 https://www.youtube.com/watch?v=LCf5Sk3BSl0
